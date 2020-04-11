@@ -1,0 +1,15 @@
+{
+	"arrowParens": "always",
+	"bracketSpacing": true,
+	"endOfLine": "lf",
+	"jsxBracketSameLine": true,
+	"jsxSingleQuote": true,
+	"printWidth": 60,
+	"proseWrap": "always",
+	"semi": true,
+	"singleQuote": true,
+	"tabWidth": 2,
+	"trailingComma": "none",
+	"useTabs": false,
+	"vueIndentScriptAndStyle": true
+}
